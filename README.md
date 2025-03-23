@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&color=ff0000&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi!+I'm+Edward;Nice+to+meet+you" />
 </h1>
 
-<p>Hello👋 I am Edward, a Blockchain developer, web developer and I am doing a lot with react | CSS | Js for more👇</p>
+<p>Hello👋 I am Edward, a Blockchain developer, web3 developer and I am doing a lot with Js Frame Works | Front-end | Back-end, for more👇</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 <br><be>
@@ -53,6 +53,11 @@
   alt="Solidity"
   src="https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
 />
+<img
+    alt="python"
+    src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B"
+/>
+
 
 
 </p>
